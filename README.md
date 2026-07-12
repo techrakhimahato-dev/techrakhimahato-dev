@@ -51,12 +51,12 @@ I'm **Rakhi Mahato**, a **Computer Engineering Student** passionate about buildi
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=express-lab&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/techrakhimahato-dev/smart-ambulance">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=smart-ambulance&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/techrakhimahato-dev/smart-ambulance-system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=smart-ambulance-system&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/techrakhimahato-dev/portfolio-website">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=portfolio-website&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/techrakhimahato-dev/ArtGallerryApp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=ArtGallerryApp&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
@@ -141,31 +141,17 @@ I'm **Rakhi Mahato**, a **Computer Engineering Student** passionate about buildi
 
 ---
 
-# 🐍 Contribution Snake
 
-> Enable the GitHub Action first, then uncomment this section.
 
-```markdown
-<!--
+## 🐍 Contribution Snake
+
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/techrakhimahato-dev/techrakhimahato-dev/output/github-contribution-grid-snake.svg"/>
 
 </p>
--->
-```
 
----
 
-# 💻 LeetCode
-
-> Replace **YOUR_USERNAME** with your actual LeetCode username.
-
-```markdown
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Poppins)
-```
-
----
 
 # 💡 Random Developer Quote
 
