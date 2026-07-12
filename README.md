@@ -37,33 +37,6 @@ I'm **Rakhi Mahato**, a **Computer Engineering Student** passionate about buildi
 - ✅ Database Design
 - ✅ Open Source Contributions
 
----
-
-# 🌟 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/techrakhimahato-dev/online-bookstore">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=online-bookstore&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/techrakhimahato-dev/express-lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=express-lab&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/techrakhimahato-dev/smart-ambulance-system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=smart-ambulance-system&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/techrakhimahato-dev/ArtGallerryApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=ArtGallerryApp&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
-> **Replace any repository names above if they differ from your actual GitHub repository names.**
-
----
 
 # 🛠 Tech Stack
 
@@ -135,15 +108,14 @@ I'm **Rakhi Mahato**, a **Computer Engineering Student** passionate about buildi
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=techrakhimahato-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=techrakhimahato-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
 
 </p>
-
 ---
 
 
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
