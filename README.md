@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Rakhi%20Mahato&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,25:1E1B4B,50:312E81,75:4C1D95,100:7C3AED&section=header&text=Rakhi%20Mahato&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=36"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full-Stack+Web+Developer;Open+Source+Contributor;Building+Modern+Web+Applications;Learning+Through+Projects"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=techrakhimahato-dev&label=Profile%20Views&style=for-the-badge&color=8A2BE2"/>
-<img src="https://img.shields.io/github/followers/techrakhimahato-dev?style=for-the-badge&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/techrakhimahato-dev?affiliations=OWNER&style=for-the-badge&color=8A2BE2"/>
+<img src="https://komarev.com/ghpvc/?username=techrakhimahato-dev&label=Profile%20Views&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/techrakhimahato-dev?style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/stars/techrakhimahato-dev?affiliations=OWNER&style=for-the-badge&color=7C3AED"/>
 </p>
 
 </div>
@@ -16,49 +16,84 @@
 
 # 👋 About Me
 
-I'm a **Computer Engineering student** passionate about building practical web applications and continuously improving my software development skills.
+I'm **Rakhi Mahato**, a **Computer Engineering Student** passionate about building modern web applications and continuously improving my software development skills.
 
-- 💻 Building full-stack web applications with **React, Next.js, Express.js & Node.js**
-- 🌱 Currently exploring **Backend Development, REST APIs, Authentication & Database Design**
-- 🤝 Contributing to **Open Source** whenever possible
-- 🚀 Interested in scalable web applications and clean code
-- 📚 Learning by building real-world projects and sharing my progress on GitHub
+- 💻 Building **Full-Stack Web Applications**
+- 🚀 Exploring **React, Next.js, Express.js & Node.js**
+- 🌱 Learning **Backend Development, Authentication & REST APIs**
+- 🤝 Contributing to **Open Source**
+- 📚 Sharing my learning journey through GitHub projects
+- ⚡ Goal: Become a Software Engineer who builds scalable and impactful applications
 
 ---
 
 # 🚀 Current Focus
 
-- Express.js
-- Next.js
-- REST APIs
-- Backend Architecture
-- Open Source Contributions
-- Building Portfolio Projects
+- ✅ Express.js
+- ✅ Next.js
+- ✅ REST APIs
+- ✅ Backend Architecture
+- ✅ Authentication (JWT)
+- ✅ Database Design
+- ✅ Open Source Contributions
 
 ---
 
 # 🌟 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 📚 Online Bookstore | Full-stack bookstore with authentication and REST APIs |
-| 🚑 Smart Ambulance | Emergency response management system |
-| ⚡ Express Lab | Repository documenting my Express.js learning journey |
-| 🌐 Portfolio Website | Personal portfolio built with modern web technologies |
+<p align="center">
+
+<a href="https://github.com/techrakhimahato-dev/online-bookstore">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=online-bookstore&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/techrakhimahato-dev/express-lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=express-lab&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/techrakhimahato-dev/smart-ambulance">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=smart-ambulance&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/techrakhimahato-dev/portfolio-website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=portfolio-website&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+> **Replace any repository names above if they differ from your actual GitHub repository names.**
 
 ---
 
 # 🛠 Tech Stack
 
-<div align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,django,mysql,sqlite,tailwind,git,github,vercel,render,vscode,figma&perline=9"/>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+</p>
 
-</div>
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,figma"/>
+</p>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -76,7 +111,7 @@ I'm a **Computer Engineering student** passionate about building practical web a
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -86,11 +121,57 @@ I'm a **Computer Engineering student** passionate about building practical web a
 
 ---
 
+# 📊 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=techrakhimahato-dev&theme=tokyonight"/>
+
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=techrakhimahato-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=techrakhimahato-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action first, then uncomment this section.
+
+```markdown
+<!--
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/techrakhimahato-dev/techrakhimahato-dev/output/github-contribution-grid-snake.svg"/>
+
+</p>
+-->
+```
+
+---
+
+# 💻 LeetCode
+
+> Replace **YOUR_USERNAME** with your actual LeetCode username.
+
+```markdown
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Poppins)
+```
+
+---
+
+# 💡 Random Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
@@ -116,45 +197,49 @@ I'm a **Computer Engineering student** passionate about building practical web a
 
 ---
 
-## 📈 2026 Goals
+# 🎯 2026 Goals
 
-- Build production-ready full-stack applications
-- Make meaningful open-source contributions
-- Learn advanced backend development
-- Master system design fundamentals
-- Contribute consistently on GitHub
+- 🚀 Build production-ready Full-Stack Applications
+- 🌍 Make meaningful Open Source Contributions
+- 📚 Learn Advanced Backend Development
+- 🏗 Master System Design Fundamentals
+- ⚡ Improve DSA & Problem Solving
+- 💼 Land a Software Engineering Internship / Freelance Projects
+
+---
+
+# 📌 Repository Checklist
+
+✔ Professional README
+
+✔ Live Demo
+
+✔ Screenshots
+
+✔ Installation Guide
+
+✔ Features
+
+✔ Folder Structure
+
+✔ API Documentation
+
+✔ Future Roadmap
+
+✔ Contributing Guide
+
+✔ License
+
+✔ Meaningful Commits
 
 ---
 
 <div align="center">
 
-### 💜 Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+### *"Code. Learn. Build. Repeat."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-</div>
-## 🚀 Featured Projects
-
-<a href="https://github.com/techrakhimahato-dev/online-bookstore">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=online-bookstore&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/techrakhimahato-dev/express-lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=express-lab&theme=tokyonight&hide_border=true"/>
-</a>
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/techrakhimahato-dev/techrakhimahato-dev/output/github-contribution-grid-snake.svg"/>
-</p>
-<div align="center">
-
-⭐ If you enjoy my work, consider giving a star to my repositories!
-
-"Learning never stops. Every commit is a step forward."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,25:4C1D95,50:312E81,75:1E1B4B,100:0F172A&section=footer"/>
 
 </div>
