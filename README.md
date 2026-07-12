@@ -135,3 +135,26 @@ I'm a **Computer Engineering student** passionate about building practical web a
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
+## 🚀 Featured Projects
+
+<a href="https://github.com/techrakhimahato-dev/online-bookstore">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=online-bookstore&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/techrakhimahato-dev/express-lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=techrakhimahato-dev&repo=express-lab&theme=tokyonight&hide_border=true"/>
+</a>
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/techrakhimahato-dev/techrakhimahato-dev/output/github-contribution-grid-snake.svg"/>
+</p>
+<div align="center">
+
+⭐ If you enjoy my work, consider giving a star to my repositories!
+
+"Learning never stops. Every commit is a step forward."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
+
+</div>
